@@ -33,7 +33,7 @@ The project is about pet clinic which storing animal and its owners data in appl
 
 ### Built With
 
-Java  8, Spring , JPA , H2 Database , Thymeleaf and Docker
+Java  8, Spring , JPA , H2 Embedded Database , Thymeleaf and Docker
 
 
 <!-- GETTING STARTED -->
